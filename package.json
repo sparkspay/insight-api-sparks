@@ -62,7 +62,7 @@
   "sparkscoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-sparks": "git+https://github.com/sparkspay/bitcore-lib-sparks.git#development",
+    "bitcore-lib-sparks": "git+https://github.com/sparkspay/bitcore-lib-sparks.git",
     "bignumber.js": "^5.0.0",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
