@@ -11,8 +11,8 @@
       alt="API stability" />
   </a>
   <!-- Build Status -->
-  <a href="https://travis-ci.org/sparksevo/insight-api">
-    <img src="https://img.shields.io/travis/sparksevo/insight-api/master.svg?style=flat-square" alt="Build Status" />
+  <a href="https://travis-ci.org/sparkspay/insight-api">
+    <img src="https://img.shields.io/travis/sparkspay/insight-api/master.svg?style=flat-square" alt="Build Status" />
   </a>
   <!-- NPM version -->
   <a href="https://npmjs.org/package/insight-api">
