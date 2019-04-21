@@ -1,7 +1,7 @@
 {
   "name": "insight-api-sparks",
   "description": "A sparks blockchain REST and web socket API service for sparkscore Node.",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "repository": "git://github.com/sparkspay/insight-api.git",
   "contributors": [
     {
